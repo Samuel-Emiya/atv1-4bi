@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+
+}
+
+
+.digimon {
+    border: 2px solid red;
+    width: 53rem;
+    height: 5rem;
+    margin: auto;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+}
+.DB {
+    border: 2px solid orangered;
+    width: 58rem;
+    height: 5rem;
+    margin: auto;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+}
+.fate {
+    border: 2px solid brown;
+    width: 55rem;
+    height: 5rem;
+    margin: auto;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+}
+.flash {
+    border: 2px solid yellow;
+    width: 60rem;
+    height: 5rem;
+    margin: auto;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+}
