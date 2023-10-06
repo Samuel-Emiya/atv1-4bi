@@ -28,7 +28,7 @@
     border: 2px solid brown;
     width: 55rem;
     height: 5rem;
-    margin: auto;
+    margin: 3rem;
     justify-content: center;
     display: flex;
     align-items: center;
@@ -38,7 +38,7 @@
     border: 2px solid yellow;
     width: 60rem;
     height: 5rem;
-    margin: auto;
+    margin: 4rem;
     justify-content: center;
     display: flex;
     align-items: center;
